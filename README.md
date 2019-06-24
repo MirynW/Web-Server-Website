@@ -17,7 +17,7 @@ Detailed below, I wrote the option of adding a Schedular Application which impli
 We can use the Component based system for Angularjs to allow for a possible javascript based web editor where in I can alter certain text on my website using basic built in material components + any custom components I might create. We can then send this info back to our web server for it to be stored as the new resume.
 
 # Custom To-Do List For Current Projects
-We can create a to-do list or possibly grab data from out github public repos to show the current changes to projects that are currently being worked on.
+We can create a to-do list or possibly grab data from github public repos to show the current changes to projects that are currently being worked on.
 ## Schedular
 we can also create a custom project schedular that will be similar to what an Asana Board or a Github Projects Board. This data will be sent to our server to be stored in a database(Mongodb). We can later have our web application request that data when a user wishes to view their projects.
 
