@@ -29,6 +29,8 @@ An interesting way to show our portfolio would be through a project viewer that 
 [Image?]
 [Tile Link] -> Github wiki loaded into a page with custom css styling
 >https://developer.github.com/v3/
+
+> A Custom Tile Component Outline Has Been Made On The Main Website Page Under Stacks Carousel.
 >
 >https://stackoverflow.com/questions/27654854/is-it-possible-to-get-github-wiki-content-by-github-api
 
