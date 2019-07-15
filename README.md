@@ -35,6 +35,7 @@ An interesting way to show our portfolio would be through a project viewer that 
 # Comment/Message Board
 Allow users to login and send personalized messages to me or other users. ->Implement email association with accounts?
 -> Call 3rd party API to send emails (Use this as it is more secure).
+-> Look into using a WebSocket for this as it provides a more efficient way of handling real time communication
 >https://developers.google.com/gmail/api/
 >
 >https://stackoverflow.com/questions/7381150/how-to-send-an-email-from-javascript
