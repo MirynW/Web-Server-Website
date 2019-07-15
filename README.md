@@ -24,10 +24,15 @@ we can also create a custom project schedular that will be similar to what an As
 # Project Viewer
 An interesting way to show our portfolio would be through a project viewer that could utilize the github wiki and auto pull data from there to be outputted onto our site. We could use the github api for this to pull the wiki data. Remember that all uses of the REST api under the github api will be received in JSON format. We can have a custom Angular component that will detail each project as a tile on our web application.
 ### Tile Format:
+
 [Project Title]
+
 [Description]
+
 [Image?]
+
 [Tile Link] -> Github wiki loaded into a page with custom css styling
+
 >https://developer.github.com/v3/
 
 > A Custom Tile Component Outline Has Been Made On The Main Website Page Under Stacks Carousel.
@@ -37,6 +42,7 @@ An interesting way to show our portfolio would be through a project viewer that 
 # Comment/Message Board
 Allow users to login and send personalized messages to me or other users. ->Implement email association with accounts?
 -> Call 3rd party API to send emails (Use this as it is more secure).
+
 -> Look into using a WebSocket for this as it provides a more efficient way of handling real time communication
 >https://developers.google.com/gmail/api/
 >
